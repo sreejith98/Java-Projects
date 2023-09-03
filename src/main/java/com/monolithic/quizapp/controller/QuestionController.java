@@ -1,7 +1,7 @@
 package com.monolithic.quizapp.controller;
 
 
-import com.monolithic.quizapp.Question;
+import com.monolithic.quizapp.model.Question;
 import com.monolithic.quizapp.service.QuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

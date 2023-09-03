@@ -1,4 +1,4 @@
-package com.monolithic.quizapp;
+package com.monolithic.quizapp.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

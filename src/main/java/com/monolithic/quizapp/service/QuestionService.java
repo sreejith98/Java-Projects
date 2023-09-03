@@ -1,11 +1,10 @@
 package com.monolithic.quizapp.service;
 
 
-import com.monolithic.quizapp.Question;
+import com.monolithic.quizapp.model.Question;
 import com.monolithic.quizapp.dao.QuestionDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 
